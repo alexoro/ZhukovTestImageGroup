@@ -1,0 +1,2 @@
+include ':app',
+        ':lib-vk-images-view-group'
